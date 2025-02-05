@@ -12,5 +12,4 @@ Current Education:<br><br>Pursuing a degree in Computer Science (or related fiel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thakur-ji-5513&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-ji-5513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
