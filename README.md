@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Rudraksh Thakur!
 
 🎓 **BCA student at Graphic Era Deemed to be University, Dehradun**  
-💻 Aspiring Software Engineer passionate about **full-stack development, system design, and DSA**.  
+💻 Aspiring Software Engineer passionate about **development, coding and buiulding stuff in tech**.  
 🚀 Exploring the intersection of **code, creativity, and scalable tech**.
 
 <p align="left">
@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 - 🌱 Currently building skills in **MERN Stack** and **C++ problem-solving**  
-- 🧠 Practicing **Data Structures & Algorithms** (90+ problems solved on LeetCode & other platforms)  
+- 🧠 Practicing **Data Structures & Algorithms** (100+ problems solved on LeetCode & other platforms)  
 - ☁️ Learning about **cloud technologies (AWS basics)** and **performance optimization**  
 - 🤝 Open to **collaboration** on development projects, hackathons, and open-source contributions  
 - ⚡ Fun fact: I love solving logic puzzles, playing games, and challenging my limits—whether in code or life  
