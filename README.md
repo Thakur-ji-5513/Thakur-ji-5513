@@ -4,6 +4,10 @@
 💻 Aspiring Software Engineer passionate about **full-stack development, system design, and DSA**.  
 🚀 Exploring the intersection of **code, creativity, and scalable tech**.
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/11af9b0e-a42d-4be7-b9e2-4b2506824446/thumbnail" >
+</p>
+
 ---
 
 ## 💡 About Me
