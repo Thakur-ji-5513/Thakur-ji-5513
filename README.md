@@ -11,9 +11,9 @@
 ---
 
 ## 💡 About Me
-- 🌱 Currently building skills in **MERN Stack** and **C++ problem-solving**  
-- 🧠 Practicing **Data Structures & Algorithms** (100+ problems solved on LeetCode & other platforms)  
-- ☁️ Learning about **cloud technologies (AWS basics)** and **performance optimization**  
+- 🌱 Currently building skills in **MERN Stack** and **Python problem-solving**  
+- 🧠 Practicing **Data Structures & Algorithms** ( ` as one should! ` )
+- ☁️ Learning about **cloud technologies ** and **performance optimization**  
 - 🤝 Open to **collaboration** on development projects, hackathons, and open-source contributions  
 - ⚡ Fun fact: I love solving logic puzzles, playing games, and challenging my limits—whether in code or life  
 
@@ -48,16 +48,9 @@
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-thakur-8b5493185/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakshthakur60@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudraksh__thakur.1426)
 
 ---
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Thakur-ji-5513&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thakur-ji-5513&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-ji-5513&theme=radical&hide_border=false&layout=compact)
-
----
 
 > “Code. Learn. Build. Repeat.”  
 > Curiosity drives my code, and growth fuels my journey. 🚀
